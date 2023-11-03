@@ -59,9 +59,10 @@
     line-height: normal;
     display: flex;
     align-items: center;
-
+    
   }
   .imagen{
     margin-left: 15%;
     margin-right: 10px;
   }
+  
