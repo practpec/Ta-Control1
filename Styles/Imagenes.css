@@ -1,0 +1,9 @@
+.container-images{
+    padding: 5%;
+    display: flex;
+    
+}
+.img{
+    background-color: white;
+    padding: 2%;
+}

@@ -1,12 +1,14 @@
-import '@/Styles/Inventario'
-import Navbar from '@/components/navbar'
+import "bootstrap/dist/css/bootstrap.min.css";
+import '@/Styles/Reporte.css'
+import Imagenes from "@/components/Imagenes";
 
 export default function home(){
     return(
-        <>
-        <Navbar/>
+      <div>
+        <Imagenes/>
+        <Imagenes/>
+      </div>  
         
-        </>
             
     )
 }

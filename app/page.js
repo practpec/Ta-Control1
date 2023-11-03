@@ -17,13 +17,14 @@ export default function MyPage() {
 
   return (
     <div>
-      <h1>Página con Modal</h1>
+      {/* <h1>Página con Modal</h1>
       <Button variant="primary" onClick={openModal}>
         Abrir Modal
       </Button>
       <h1>hola hfbebcvgucrueh sbn g</h1>
 
-      <MyModal showModal={showModal} onClose={closeModal} />
+      <MyModal showModal={showModal} onClose={closeModal} /> */}
+      
     </div>
   );
 }

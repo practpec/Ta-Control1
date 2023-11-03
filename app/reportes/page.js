@@ -23,14 +23,14 @@ export default function Reporte() {
   if (localStorageValue === "3") {
     return (
       <div>
-        <Tabla />
+        <Tabla/>
       </div>
     );
   }
 
   return (
     <div>
-      hola
+      <Tabla/>
     </div>
   );
 }

@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+.cont-group{
+    display: flex;
+    flex-direction: column 2;
+    /* align-items: center; */
+    justify-content: center;
+    padding: 10%;
+}
+.lbl-nombre{
+    display: flex;
+    padding: 5%;
+    font-size: 20px;
+}
+.nombre{
+    font-family: 'Inter';
+    background: none;
+    border: none;
+    font-size: 18px;
+}
+.container-images{
+    
+    padding: 5%;
+    display: flex;
+    
+}
+.img{
+    background-color: white;
+    padding: 2%;
+}
