@@ -1,7 +1,8 @@
-.container-images{
+.container-images {
     padding: 5%;
     display: flex;
-    
+    flex-direction: row;
+    justify-content: space-around;
 }
 .img{
     background-color: white;
