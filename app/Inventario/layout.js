@@ -9,7 +9,7 @@ export default function RootLayout({ children }) {
   return (
     <div className="container">
         <div className="blanco">
-        <Navbar/>
+        {/* <Navbar/> */}
         </div>
       <div className="naranja">{children}</div>
     </div>

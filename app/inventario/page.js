@@ -1,4 +1,4 @@
-import NavGen from "../../../components/NavGen";
+import NavGen from "@/components/NavGen";
 
 export default function Inventario() {
   return (
