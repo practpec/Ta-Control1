@@ -1,4 +1,6 @@
+"use client"
 import "/styles/navGen.css"
+
 import Link from "next/link";
 import logoNav from "/img/logoNav.png";
 import pedidos from "/img/pedidos.png";
@@ -7,6 +9,7 @@ import reporteVentas from "/img/reporteVentas.png";
 import cerrarSesion from "/img/cerrarSesion.png";
 
 function NavGen() {
+   
     return (
         <nav>
             <img src={logoNav.src} alt="Logo" id="logoNav" />
