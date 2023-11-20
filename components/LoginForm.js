@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState } from 'react';
-import styles from '../styles/LoginForm.css';
+import styles from '../styles/LoginForm.module.css';
 
 const LoginForm = () => {
   const [username, setUsername] = useState('');
