@@ -1,13 +1,14 @@
 "use client"
 
-// import LoginForm from "@/components/LoginForm";
+import Login from "@/components/Login";
 
-import OrangeRectangle from "@/components/OrangeRectangle";
+// import OrangeRectangle from "@/components/OrangeRectangle";
 
 export default function Home() {
   return (
     <div>
-      <OrangeRectangle/>
+      <Login/>
+
     </div>
 
   );
