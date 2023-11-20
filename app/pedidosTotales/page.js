@@ -1,5 +1,5 @@
-import NavGen from "../../../components/NavGen";
-import PedidosTotalesC from "../../../components/PedidosTotales";
+import NavGen from "@/components/NavGen";
+import PedidosTotalesC from "@/components/PedidosTotales";
 
 
 export default function PedidosTotales() {

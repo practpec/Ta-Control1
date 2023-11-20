@@ -1,5 +1,5 @@
-import NavGen from "../../../../components/NavGen";
-import Pedido from "../../../../components/Pedido";
+import NavGen from "@/components/NavGen";
+import Pedido from "@/components/Pedido";
 
 export default function PedidosOpc() {
   return (

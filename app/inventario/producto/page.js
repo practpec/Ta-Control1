@@ -1,5 +1,5 @@
-import NavGen from "../../../../components/NavGen"
-import EditarC from "../../../../components/productoInventarioC";
+import NavGen from "@/components/NavGen"
+import EditarC from "@/components/productoInventarioC";
 
 export default function Producto(){
     return(

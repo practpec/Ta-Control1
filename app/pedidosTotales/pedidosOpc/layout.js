@@ -1,4 +1,4 @@
-import "../../../../styles/second.css"
+import "@/styles/second.css"
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
