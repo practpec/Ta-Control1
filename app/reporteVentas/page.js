@@ -1,5 +1,5 @@
-import NavGen from "../../../components/NavGen";
-import ReporteTabla from "../../../components/ReporteTabla"
+import NavGen from "@/components/NavGen";
+import ReporteTabla from "@/components/ReporteTabla"
 
 export default function ReporteVentas() {
   return (
